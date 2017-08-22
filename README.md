@@ -5,7 +5,7 @@ Currently includes an example Arduino sketch and an example ROS-node for publish
 Dependencies:
 Rosserial-packages, see http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
-Steps:
+Steps (or see http://wiki.ros.org/rosserial_arduino/Tutorials/Servo%20Controller):
 
 1. Open Arduino IDE and upload the Sketch (in case of permission problem, run 'sudo chmod 666 /dev/ttyACM0' for whatever port the Arduino is connected to)
 
